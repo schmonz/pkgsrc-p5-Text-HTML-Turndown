@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.5 2025/07/04 08:48:29 wiz Exp $
+# $NetBSD: Makefile,v 1.6 2025/08/18 02:59:40 schmonz Exp $
 
 DISTNAME=	Text-HTML-Turndown-0.07
 PKGNAME=	p5-${DISTNAME}
